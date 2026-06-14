@@ -1,0 +1,49 @@
+name: Generate Contribution Crawl
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:      # Allow manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Clone Contribution Crawl
+        run: git clone https://github.com/MaskiCoding/Contribution-Crawl.git crawl
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install and build
+        working-directory: crawl
+        run: |
+          npm ci
+          npm run build
+
+      - name: Generate SVGs
+        working-directory: crawl
+        run: node dist/index.js ${{ github.repository_owner }} ..
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contribution-crawl-*.svg
+          git diff --staged --quiet || git commit -m "Update Contribution Crawl"
+          git push
