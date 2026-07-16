@@ -9,7 +9,7 @@
 
 <!-- stat cards -->
 <p align="center">
-  <img width="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kilqwe&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=contribution+activity&card_width=500" alt="GitHub Stats" />
+  <img width="80%" src="https://readme-stats.vercel.app/api?username=kilqwe&show_icons=true&theme=transparent&hide_border=true&custom_title=contribution+activity" alt="GitHub Stats" />
 </p>
 
 <p align="center">
