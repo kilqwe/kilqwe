@@ -1,6 +1,6 @@
 <!-- typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/blob/main/assets/icons/codebanner.svg" alt="Shreyas — Full-Stack SDE, AI/ML Systems" />
+  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/main/assets/icons/codebanner.svg" alt="Shreyas — Full-Stack SDE, AI/ML Systems" />
 </p>
 
 <br>
