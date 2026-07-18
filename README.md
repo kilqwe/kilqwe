@@ -1,9 +1,6 @@
 <!-- typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/main/assets/code-banner.svg" alt="Shreyas — Full-Stack SDE, AI/ML Systems" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=39D353&background=0D111700&center=false&vCenter=true&width=500&height=140&lines=const+developer+%3D+%7B;++name%3A+%22Shreyas%22%2C;++role%3A+%22Full-Stack+SDE+%C2%B7+AI%2FML+Systems%22%2C;%7D%3B" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/blob/main/assets/icons/codebanner.svg" alt="Shreyas — Full-Stack SDE, AI/ML Systems" />
 </p>
 
 <br>
