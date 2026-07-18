@@ -1,15 +1,16 @@
 <!-- typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%5BShreyas%5D+%F0%9F%91%8B;Backend+SDE+%C2%B7+AI%2FML+Systems;" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/main/assets/code-banner.svg" alt="Shreyas — Full-Stack SDE, AI/ML Systems" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=39D353&background=0D111700&center=false&vCenter=true&width=500&height=140&lines=const+developer+%3D+%7B;++name%3A+%22Shreyas%22%2C;++role%3A+%22Full-Stack+SDE+%C2%B7+AI%2FML+Systems%22%2C;%7D%3B" alt="Typing SVG" />
 </p>
 
 <br>
 
 <!-- stat cards -->
 <p align="center">
-  <img width="80%" [src="https://readme-stats.vercel.app/api?username=kilqwe&show_icons=true&theme=transparent&hide_border=true&custom_title=contribution+activity" ](https://github-readme-stats-eight-theta.vercel.app/api?username=kilqwe&show_icons=true&theme=transparent&hide_border=true) alt="GitHub Stats" />
+  <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kilqwe&show_icons=true&hide_border=true&bg_color=00000000&title_color=39d353&text_color=8b949e&icon_color=39d353" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -28,6 +29,10 @@
 <!-- skills -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,fastapi,nodejs,express,postgres,mongodb,redis,docker,pytorch,sklearn,github,vscode&perline=8" alt="Skills" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/main/assets/icons/langgraph.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/main/assets/icons/qdrant.svg" width="40" height="40" />
 </p>
 
 <br>
