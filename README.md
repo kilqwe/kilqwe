@@ -1,4 +1,8 @@
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/kilqwe/badge.svg)](https://hub.xerj.org/contributors/kilqwe)
 <!-- typing SVG -->
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kilqwe/kilqwe/main/assets/icons/codebanner.svg" alt="Shreyas — Full-Stack SDE, AI/ML Systems" />
 </p>
@@ -38,3 +42,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kilqwe&style=flat-square&color=39d353&label=profile+views" alt="Profile views" />
 </p>
+
+
